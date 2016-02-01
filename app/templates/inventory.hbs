@@ -1,0 +1,13 @@
+<h3>Inventory</h3>
+
+<ul>
+  {{#each model as |inventory|}}
+  <li>
+    {{inventory.id.0.product_name_or_identifier}}
+    (qty: {{inventory.quantity}})
+    {{#if (lte inventory.quantity inventory.restock_at)}}
+      <strong>Needs Restocking!!</strong>
+    {{/if}}
+  </li>
+  {{/each}}
+</ul>
