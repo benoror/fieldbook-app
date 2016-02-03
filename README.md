@@ -4,10 +4,7 @@ Simple app to learn Ember.js and play with Fieldbook API
 
 See streaming series at LiveCoding.TV:
 
-- https://www.livecoding.tv/benoror/
-  - [Part 1](https://www.livecoding.tv/video/playing-with-fieldbook-api-emberjs/)
-  - [Part 2-1](https://www.livecoding.tv/video/playing-with-fieldbook-api-emberjs-3/)
-  - [Part 2-2](https://www.livecoding.tv/video/playing-with-fieldbook-api-emberjs-4/)
+- https://www.livecoding.tv/video/benoror/playlists/emberjs/
 
 ## Further Reading / Useful Links
 
